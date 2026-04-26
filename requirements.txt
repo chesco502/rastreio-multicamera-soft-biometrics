@@ -1,0 +1,8 @@
+--find-links https://download.pytorch.org/whl/torch_stable.html
+
+bcrypt
+gradio
+numpy>=1.23.0
+opencv-python
+Pillow>=9.0.0
+rtdl==0.0.13

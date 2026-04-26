@@ -1,0 +1,55 @@
+# ── Modelos de ML / pesos ────────────────────────────────────────────────────
+*.pt
+*.pth
+*.caffemodel
+*.weights
+*.onnx
+*.pb
+*.h5
+*.bin
+*.tflite
+
+# ── Python ───────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# ── Ambientes virtuais ────────────────────────────────────────────────────────
+venv/
+env/
+.venv/
+.env/
+
+# ── Arquivos de configuração gerados em runtime ───────────────────────────────
+*.pkl
+*.pickle
+
+# ── Dados / vídeos / imagens capturadas ───────────────────────────────────────
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.webp
+
+# ── Output de buscas ─────────────────────────────────────────────────────────
+output/
+
+# ── IDEs ──────────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.suo
+*.user
+
+# ── OS ───────────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Temporários / desenvolvimento ────────────────────────────────────────────
+testes/

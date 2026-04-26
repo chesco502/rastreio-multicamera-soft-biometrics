@@ -1,0 +1,8 @@
+Aqui deve conter 2 arquivos com os nomes:
+Modelo_face.prototxt(dowload em https://github.com/opencv/opencv/blob/4.x/samples/dnn/face_detector/deploy.prototxt)
+
+
+Pesos_face.caffemodel(  https://raw.githubusercontent.com/opencv/opencv_3rdparty/dnn_samples_face_detector_20180205_fp16/res10_300x300_ssd_iter_140000_fp16.caffemodel )
+
+
+https://drive.google.com/open?id=1AW3WduLk1haTVAxHOkVS_BEzel1WXQHP

@@ -1,0 +1,8 @@
+Aqui deve conter 2 arquivos com os nomes:
+Modelo_genero.prototxt (dowload em  https://drive.google.com/open?id=1W_moLzMlGiELyPxWiYQJ9KFaXroQ_NFQ)
+
+
+Pesos_genero.caffemodel( dowload em https://drive.google.com/open?id=1AW3WduLk1haTVAxHOkVS_BEzel1WXQHP )
+
+
+https://drive.google.com/open?id=1AW3WduLk1haTVAxHOkVS_BEzel1WXQHP
